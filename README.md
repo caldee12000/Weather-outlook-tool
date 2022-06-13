@@ -1,2 +1,5 @@
 # Weather-outlook-tool
-gives weather outlook for specified location
+Gives current and future weather for inputed city, including date,temp, humidity,wind speed and UV index.
+
+
+
